@@ -13,5 +13,5 @@ class camera:
     
     def draw(self):
         for x in range(W):
-            camX = None
+            camX = x self.Dir["X"] / 0.12
             break
